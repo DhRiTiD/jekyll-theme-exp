@@ -1,5 +1,7 @@
 title: my-blog-page
 description: "a simple theme for displaying blog posts minimalistically."
 encoding: utf-8
+sass:
+  sass_dir: _saas
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
